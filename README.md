@@ -7,3 +7,5 @@
 - 仓库从 clone 到 push 全流程走通。
 
 - 提交署名改用 GitHub 隐私邮箱，避免暴露手机号。
+
+- 2026-10-25 晚：用 GitHub Desktop 完成人生第一次 Commit + Push。（这行是练习用的）
