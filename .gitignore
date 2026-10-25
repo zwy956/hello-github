@@ -1,0 +1,10 @@
+# 编译产物，不进仓库
+*.exe
+*.o
+*.obj
+*.pdb
+build/
+
+# Windows / Mac 的缩略图垃圾
+Thumbs.db
+.DS_Store
